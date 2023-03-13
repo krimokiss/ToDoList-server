@@ -1,4 +1,4 @@
-CREATE DATABASE bzpdcbmjwt4prbu81hpn;
+CREATE DATABASE perdoto;
 
 CREATE TABLE todo(
     todo_id SERIAL PRIMARY KEY,
